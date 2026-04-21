@@ -111,4 +111,4 @@ This project is for learning and practice purposes.
 ---
 
 ## 🙌 Author
-by YOU Osama Banihani
+by Osama Banihani
